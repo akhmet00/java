@@ -1,0 +1,11 @@
+#divleft{
+    width: 45%;
+    height: 500px;
+    float: left;
+}
+
+#divright{
+    width: 45%;
+    height: 500px;
+    float: left;
+}
